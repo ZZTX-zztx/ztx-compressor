@@ -1,2 +1,2 @@
-<a href="URL">文件转ztx</a><br>
-<a href="URL">ztx解压dt</a>
+<a href="toztx">Convert file to ztx</a><br>
+<a href="todt">ztx decompress dt</a>
