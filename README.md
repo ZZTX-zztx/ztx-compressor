@@ -1,4 +1,4 @@
 # ztx compressor
 
-<h1><p align="center">Hello</p></h1>
+<p align="center"><h1>Hello</h1></p>
 <p align="center"><a href="ztx">next</a></p>
