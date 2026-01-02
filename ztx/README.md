@@ -2,5 +2,4 @@
 <p>请选择你的语言?</p>
 <p>Please choose your language?</p>
 <a href="Chinese">中文</a>
-[中文](./Chinese)<br>
-[English](./English)
+<a href="English">English</a>
