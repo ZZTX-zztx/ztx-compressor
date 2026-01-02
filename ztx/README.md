@@ -1,6 +1,6 @@
 # ztx compressor
 <p>请选择你的语言?</p>
-<p>Please choose your language?</p><br>
+<p>Please choose your language?</p>
 
 [中文](./Chinese)<br>
 [English](./English)
