@@ -1,8 +1,3 @@
 {
-  "name": "ztx-compressor", // Worker 名称
-  "compatibility_date": "2026-01-02", // 与部署日期匹配
-  "main": "src/index.ts", // 入口文件路径
-  // 可选：添加其他配置（如环境变量、路由等）
-  // "vars": { "API_KEY": "your_key" },
-  // "routes": [{ "pattern": "example.com/*", "zone_name": "example.com" }]
+  "name": "ztx-compressor",
 }
